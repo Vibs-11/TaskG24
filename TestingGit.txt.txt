@@ -2,6 +2,13 @@ this is my project file.
 
 It contains code for Project Fruit Ninja.
 
-line 1
-Line 2
-Line 3
+this is my project file.
+
+It contains code for Project Fruit Ninja.
+
+
+this is my project file.
+
+It contains code for Project Fruit Ninja.
+
+this is the second version of Fruit Ninja Game.
