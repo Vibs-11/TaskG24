@@ -1,0 +1,7 @@
+this is my project file.
+
+It contains code for Project Fruit Ninja.
+
+line 1
+Line 2
+Line 3
